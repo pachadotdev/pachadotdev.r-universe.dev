@@ -1,6 +1,16 @@
 [
     {
         "package": "ecod025ps1",
-        "url": "https://github.com/pachadotdev/ecod025/ecod025ps1"
+        "url": "https://github.com/pachadotdev/ecod025/tree/main/ecod025ps1"
+    },
+
+    {
+        "package": "cpp4r",
+        "url": "https://github.com/pachadotdev/cpp4r"
+    },
+
+    {
+        "package": "armadillo4r",
+        "url": "https://github.com/pachadotdev/asrmadillo4r"
     }
 ]
