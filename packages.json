@@ -2,7 +2,8 @@
     {
         "package": "ecod025ps1",
         "url": "https://github.com/pachadotdev/ecod025"
-        "branch" : "code-for-ps1"
+        "branch" : "main"
+        "subdir": "ecod025ps1"
     },
 
     {
