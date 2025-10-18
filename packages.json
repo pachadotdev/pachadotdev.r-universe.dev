@@ -1,5 +1,10 @@
 [
     {
+        "package": "d3po",
+        "url": "https://github.com/pachadotdev/d3po"
+    },
+    
+    {
         "package": "ecod025ps1",
         "url": "https://github.com/pachadotdev/ecod025",
         "branch" : "main",
