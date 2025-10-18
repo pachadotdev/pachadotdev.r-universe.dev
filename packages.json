@@ -3,6 +3,11 @@
         "package": "d3po",
         "url": "https://github.com/pachadotdev/d3po"
     },
+
+    {
+        "package": "tabler",
+        "url": "https://github.com/pachadotdev/tabler"
+    },
     
     {
         "package": "ecod025ps1",
