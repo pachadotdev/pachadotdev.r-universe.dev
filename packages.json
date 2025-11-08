@@ -24,5 +24,11 @@
     {
         "package": "armadillo4r",
         "url": "https://github.com/pachadotdev/armadillo4r"
+    },
+
+
+    {
+        "package": "igraphlayout",
+        "url": "https://github.com/pachadotdev/igraphlayout"
     }
 ]
